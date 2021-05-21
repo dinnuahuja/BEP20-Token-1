@@ -785,7 +785,6 @@ contract BEP20 is Context, IBEP20 {
 }
 
 
-
 pragma solidity ^0.6.8;
 
 contract LuxuriousProNetworkToken is Ownable, BEP20 {
