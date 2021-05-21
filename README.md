@@ -2,5 +2,6 @@ BEP20-Token
 
 Binance BNB
 
-testnet.bscscan.com
-bscscan.com
+www.testnet.bscscan.com
+
+www.bscscan.com
